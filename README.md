@@ -22,4 +22,6 @@ The training results are stored in `../data/training/dmp` by default.
 
 ## Test DMP
 
-Run ``
+Run `text_dmp.py` to test the trained dmp model
+- The test results are stored in `../data/test_with_fixed_goal/dmp` by default;
+- Run `draw_test_fixed_goal.py` to visualize the test trajectory.
